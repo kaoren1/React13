@@ -1,0 +1,124 @@
+.home{
+    padding: 2rem;
+    background-color: #1d1d1d;
+    color: white;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 170px;
+    width: 400px;
+    padding: 7px;
+    gap: 20px;
+    background-color: #2d2d2d;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+.card h2 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.card p {
+    font-size: medium;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+.product-card {
+    width: 300px;
+}
+
+.productcards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 1rem; 
+}
+
+@media screen and (max-width: 600px) {
+    .card {
+        width: calc(100% - 2rem);
+    }
+}
+
+.feedback-form {
+    max-width: 800px;
+    margin: 100px auto 50px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.feedback-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.form-group textarea {
+    height: 150px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    background-color: white;
+    color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.form-group input[type="email"],
+.form-group input[type="text"] {
+    border: 2px solid cornflowerblue;
+    width: 100%;
+}
+
+.clients .card, .partners .card, .employees .card {
+    width: 230px; 
+}
+
+.error {
+    color: cornflowerblue;
+    font-size: 20px;
+    margin-top: 10px;
+}

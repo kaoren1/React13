@@ -1,0 +1,125 @@
+body {
+  background-color: #1d1d1d;
+  margin: 0;
+  padding: 0;
+}
+
+.catalog-container {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 28px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.category-filters {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  display: flex; /* Изменяем способ вывода элементов в flex */
+  justify-content: center; /* Выравниваем по центру */
+  align-items: center; /* Выравниваем по вертикали */
+  gap: 20px; /* Отступ между элементами */
+}
+
+.category-filters h2 {
+  text-align: left;
+}
+
+.category-checkbox-container {
+  width: 250px; /* Ширина выпадающего списка */
+  border: 2px solid cornflowerblue;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative; /* Для позиционирования стрелки */
+  margin-left: 50px;
+  font-size: 25px;
+  background-color: #282828; /* Фон выпадающего списка */
+  color: cornflowerblue; /* Цвет текста */
+  text-align: center; /* Центрируем текст внутри выпадающего списка */
+}
+
+.custom-checkbox-label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+  margin-bottom: 10px;
+  text-align: center; /* Центрируем текст метки */
+}
+
+.custom-checkbox {
+  display: none; /* Скрываем стандартный чекбокс */
+}
+
+.custom-checkbox-label input[type='checkbox']:checked + .custom-checkbox::before {
+  opacity: 1; /* Показываем галочку при выборе */
+}
+
+.category-filters .category-checkbox-container .custom-checkbox-label {
+  display: none; /* Скрываем метки по умолчанию */
+}
+
+.category-filters .category-checkbox-container.active .custom-checkbox-label {
+  display: block; /* Показываем метки при открытии списка */
+}
+
+.category-filters .category-checkbox-container::after {
+  content: '\f107'; /* Unicode символ стрелки вниз */
+  font-family: FontAwesome;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: cornflowerblue; /* Цвет стрелки */
+}
+
+.category-filters .category-checkbox-container.active::after {
+  transform: translateY(-50%) rotate(180deg); /* Поворачиваем стрелку при открытии */
+}
+
+.Text {
+  width: 50%;
+  padding: 8px;
+  margin: 20px auto;
+  border: 1px solid cornflowerblue;
+  border-radius: 4px;
+  display: block;
+}
+
+.catalog-container {
+  padding: 20px;
+}
+
+.category-filters {
+  margin-bottom: 20px;
+}
+
+.product-list-grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 20px;
+}
+
+.product-card{
+  color: cornflowerblue;
+}
+
+/* Media Queries для адаптивности */
+@media (max-width: 768px) {
+  .category-filters {
+    flex-direction: column; /* Вывод чекбоксов в столбец на мобильных */
+    justify-content: center;
+    align-items: center;
+  }
+
+  .category-filters .category-checkbox-container {
+    width: 100%;
+  }
+}

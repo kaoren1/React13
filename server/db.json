@@ -1,0 +1,304 @@
+{
+  "media": [
+    {
+      "name": "TITAN",
+      "description": "Игровой компьютер с видеокартой GeForce® RTX 3050 8 ГБ, 4-ядерным процессором Intel Core i3-12100F и 16 ГБ оперативной памяти. Играйте на максимальных настройках в Full HD разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/08/Zalman-I3-Neo_1.webp",
+      "price": 80500,
+      "category": "Игровые",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "11"
+    },
+    {
+      "name": "PHOENIX PLUS",
+      "description": "Игровой компьютер с видеокартой GeForce® RTX 4060 8 ГБ, 8-ядерным процессором AMD Ryzen 7 5700X и 16 ГБ оперативной памяти. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2024/04/deepcool-ch360-4.webp",
+      "price": 114500,
+      "category": "Игровые",
+      "isFavorite": true,
+      "cartQuantity": 0,
+      "id": "12"
+    },
+    {
+      "name": "ORION",
+      "description": "Игровой компьютер с видеокартой Radeon™ RX 7700 XT 12 ГБ, 6-ядерным процессором AMD Ryzen 5 5600 и 16 ГБ оперативной памяти. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/09/cooler-master-cmp-520.webp",
+      "price": 127400,
+      "category": "Игровые",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "13"
+    },
+    {
+      "name": "BEAST BASE",
+      "description": "Игровой компьютер с видеокартой GeForce® RTX 4070 12 ГБ, 10-ядерным процессором Intel Core i5-13400 и 16 ГБ оперативной памяти. Играйте на максимальных настройках в 4K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/12/deepcool-ch560-1.webp",
+      "price": 163500,
+      "category": "Игровые",
+      "isFavorite": false,
+      "cartQuantity": 1,
+      "id": "14"
+    },
+    {
+      "name": "HELIOS SUPREME",
+      "description": "Игровой компьютер с видеокартой GeForce® RTX 4090, 24-ядерным процессором Intel Core i9-14900KF и 64 ГБ оперативной памяти. Играйте на максимальных настройках в 4K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2024/05/nzxt-h7-elite-rgb-1.webp",
+      "price": 520100,
+      "category": "Игровые",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "15"
+    },
+    {
+      "name": "ECLIPSE COMPACT",
+      "description": "Игровой компьютер в компактном mini-ITX корпусе Jonsbo D30 с видеокартой GeForce RTX™ 4060 Ti 8 ГБ и 10-ядерным процессором Intel Core i5-13400F. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/06/jonsbo-d30-1-768x768.webp",
+      "price": 144700,
+      "category": "Компактные",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "21"
+    },
+    {
+      "name": "THOR COMPACT",
+      "description": "Игровой компьютер в компактном mATX корпусе Jonsbo TK-1 с видеокартой GeForce RTX™ 4060 8 ГБ и 6-ядерным процессором AMD Ryzen 5 5600. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/11/jonsbo-tk-1-1-768x768.webp",
+      "price": 129400,
+      "category": "Компактные",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "22"
+    },
+    {
+      "name": "HELIOS COMPACT",
+      "description": "Игровой компьютер в компактном mini-ITX корпусе Thermaltake The Tower 100 с видеокартой GeForce RTX™ 4060 Ti 8 ГБ и 10-ядерным процессором Intel Core i5-13400F. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/06/thermaltake-the-tower-100-768x768.webp",
+      "price": 148800,
+      "category": "Компактные",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "24"
+    },
+    {
+      "name": "ARES COMPACT",
+      "description": "Игровой компьютер в компактном mini-ITX корпусе ASUS Prime AP201 с видеокартой GeForce RTX™ 4060 Ti 8 ГБ и 10-ядерным процессором Intel Core i5-13400F. Играйте на максимальных настройках в 2K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/04/asus-prime-ap201-768x768.webp",
+      "price": 142300,
+      "category": "Компактные",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "25"
+    },
+    {
+      "name": "ECLIPSE COMPACT SUPREME",
+      "description": "Игровой компьютер в компактном mini-ITX корпусе Jonsbo D30 с видеокартой GeForce RTX™ 4090 24 ГБ и 20-ядерным процессором Intel Core i7-14700KF. Играйте на максимальных настройках в 4K разрешении.",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/06/jonsbo-d30-1-768x768.webp",
+      "price": 419999,
+      "category": "Компактные",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "26"
+    },
+    {
+      "name": "MSI Thin 15",
+      "description": "процессор: Intel Core i5-12450H 3300 МГц, видеокарта:NVIDIA GeForce® RTX 3050 4 ГБ для ноутбуков, оперативная память:8 ГБ, DDR4, SSD накопитель:512 ГБ SSD, дисплей:15.6 1920x1080 144 Гц",
+      "url": "https://delta-game.ru/wp-content/uploads/2024/02/msi-thin-15-b12u-5.webp",
+      "price": 83620,
+      "category": "Ноутбуки",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "27"
+    },
+    {
+      "name": "ASUS TUF Gaming F15",
+      "description": "процессор: Intel Core i5-12500H 3300 МГц, видеокарта:NVIDIA GeForce® RTX 3050 4 ГБ для ноутбуков, оперативная память:16 ГБ, DDR4, SSD накопитель:512 ГБ SSD, дисплей:15.6 1920x1080 144 Гц",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/08/asus-tuf-gaming-f15-fx507zv4-lp047-2.webp",
+      "price": 90990,
+      "category": "Ноутбуки",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "28"
+    },
+    {
+      "name": "Acer Nitro V 15",
+      "description": "процессор: Intel Core i5-13420H 2100 МГц, видеокарта:NVIDIA GeForce® RTX 4050 6 ГБ для ноутбуков, оперативная память:8 ГБ, DDR4, SSD накопитель:512 ГБ SSD, дисплей:15.6 1920x1080 144 Гц",
+      "url": "https://delta-game.ru/wp-content/uploads/2024/05/acer-nitro-v-15-anv15-51.webp",
+      "price": 98430,
+      "category": "Ноутбуки",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "29"
+    },
+    {
+      "name": "Lenovo LOQ 15IRH8",
+      "description": "процессор: Intel Core i5-12450H 3300 МГц, видеокарта:NVIDIA GeForce® RTX 4050 6 ГБ для ноутбуков, оперативная память:8 ГБ, DDR4, SSD накопитель:512 ГБ SSD, дисплей:15.6 1920x1080 144 Гц",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/12/lenovo-loq-15irh8.webp",
+      "price": 107870,
+      "category": "Ноутбуки",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "210"
+    },
+    {
+      "name": "Maibenben X668",
+      "description": "процессор: Intel Core i7-12700H 2300 МГц, видеокарта:NVIDIA GeForce® RTX 3070 8 ГБ для ноутбуков, оперативная память:16 ГБ, DDR4, SSD накопитель:512 ГБ SSD, дисплей:17.3 2560x1440 165 Гц",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/08/maibenben-x668.webp",
+      "price": 107920,
+      "category": "Ноутбуки",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "32"
+    },
+    {
+      "name": "Монитор Samsung",
+      "description": "23.5-дюймовый игровой монитор с разрешением экрана 1920x1080. Яркость монитора составляет 250 кд/м. Время отклика равно 4 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/10/Samsung-C24F396FHI_1.png",
+      "price": 13830,
+      "category": "Мониторы",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "33"
+    },
+    {
+      "name": "Монитор ASUS",
+      "description": "23.8-дюймовый игровой монитор с разрешением экрана 1920x1080. Яркость монитора составляет 250 кд/м. Время отклика равно 5 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2022/03/ASUS-VA247HE-2.webp",
+      "price": 18999,
+      "category": "Мониторы",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "34"
+    },
+    {
+      "name": "Монитор LG UltraGear",
+      "description": "23.8 1920x1080, IPS матрица, частота обновления - 144 Гц, яркость экрана - 300 кд/м, время отклика - 1 мс",
+      "url": "https://delta-game.ru/wp-content/uploads/2021/10/Gigabyte-G24F-EK_4.webp",
+      "price": 20160,
+      "category": "Мониторы",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "35 "
+    },
+    {
+      "name": "Монитор ASUS TUF Gaming",
+      "description": "27-дюймовый игровой монитор с разрешением экрана 1920x1080. У монитора высокая частота обновления экрана, равная 165 Гц, за счет чего изображение будет более плавным. Яркость монитора составляет 400 кд/м. Время отклика равно 1 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2021/10/ASUS-TUF-Gaming-VG279QL1A_5.webp",
+      "price": 28810,
+      "category": "Мониторы",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "36 "
+    },
+    {
+      "name": "Монитор Acer Nitro",
+      "description": " 27-дюймовый игровой монитор с разрешением экрана 1920x1080. У монитора высокая частота обновления экрана, равная 280 Гц, за счет чего вы получите более плавное изображение. Яркость монитора составляет 400 кд/м. Время отклика равно 1 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2022/05/acer-nitro-vg271zbmiipx_4.webp",
+      "price": 38090,
+      "category": "Мониторы",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "37"
+    },
+    {
+      "name": "Мышь A4Tech Bloody V7",
+      "description": "Игровая мышь A4Tech Bloody V7 обладает разрешением 3 200 dpi. Время отклика мыши равно 1 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2022/12/a4tech-bloody-v7.webp",
+      "price": 2530,
+      "category": "Мыши",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "38"
+    },
+    {
+      "name": "Мышь Logitech G102 LightSync",
+      "description": "игровая мышь с оптическим сенсором и разрешением 8 000 dpi. Время отклика мыши равно 1 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/07/Logitech-G102-LightSync.png",
+      "price": 2820,
+      "category": "Мыши",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "39"
+    },
+    {
+      "name": "Мышь MSI Clutch GM30",
+      "description": "Игровая мышь MSI Clutch GM30 обладает с оптическим сенсором и разрешением 6 200 dpi Время отклика мыши равно 1 мс.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/09/MSI-Clutch-GM30_3.png",
+      "price": 3040,
+      "category": "Мыши",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "310"
+    },
+    {
+      "name": "Мышь ASUS ROG Gladius II",
+      "description": "ASUS ROG Gladius II – игровая мышь с оптическим сенсором и разрешением 12 000 dpi. Время отклика мыши равно 1 мс. ",
+      "url": "https://delta-game.ru/wp-content/uploads/2018/05/ASUS-ROG-Gladius-II.png",
+      "price": 3590,
+      "category": "Мыши",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "311"
+    },
+    {
+      "name": "ASUS TUF Gaming M4 Air Black",
+      "description": "Игровая мышь ASUS TUF Gaming M4 Air Black обладает разрешением 16 000 dpi. Время отклика мыши равно 1 мс",
+      "url": "https://delta-game.ru/wp-content/uploads/2023/03/asus-tuf-gaming-m4-air-black-3.webp",
+      "price": 4750,
+      "category": "Мыши",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "312"
+    },
+    {
+      "name": "Гарнитура ASUS TUF Gaming H3",
+      "description": "Игровые проводные наушники ASUS TUF Gaming H3 Black/Blue работают в диапазоне от 20 Гц до 20 кГц. Сопротивление (импеданс) наушников равна 32 Ом. Чувствительность модели составляет 40 дБ.",
+      "url": "https://delta-game.ru/wp-content/uploads/2020/10/ASUS-TUF-Gaming-H3-Black-Blue_4.png",
+      "price": 6110,
+      "category": "Наушники",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "313"
+    },
+    {
+      "name": "Гарнитура Razer Blackshark V2 X",
+      "description": "Razer Blackshark V2 X – беспроводные игровые наушники, работающие в диапазоне от 12 Гц до 28 кГц. Импеданс (сопротивление) наушников равна 32 Ом. Чувствительность модели составляет 100 дБ.",
+      "url": "https://delta-game.ru/wp-content/uploads/2022/12/razer-blackshark-v2-x-3.webp",
+      "price": 7190,
+      "category": "Наушники",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "314"
+    },
+    {
+      "name": "Гарнитура Logitech G432 Leatherette",
+      "description": "Игровые проводные наушники Logitech G432 Leatherette работают в диапазоне от 20 Гц до 20 кГц. Импеданс (сопротивление) наушников равна 39 Ом. Чувствительность модели составляет 107 дБ.",
+      "url": "https://delta-game.ru/wp-content/uploads/2019/09/Logitech-G432-Leatherette_2.png",
+      "price": 11080,
+      "category": "Наушники",
+      "isFavorite": true,
+      "cartQuantity": 1,
+      "id": "315"
+    },
+    {
+      "name": "Гарнитура Razer Barracuda",
+      "description": "Razer Barracuda – беспроводные игровые наушники с диапазоном частот от 20 Гц до 20 кГц. Импеданс (сопротивление) наушников равна 32 Ом. Чувствительность модели составляет 96 дБ.",
+      "url": "https://delta-game.ru/wp-content/uploads/2022/11/razer-barracuda-1.webp",
+      "price": 19120,
+      "category": "Наушники",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "61"
+    },
+    {
+      "name": "Гарнитура Logitech G733",
+      "description": "Logitech G733 LIGHTSPEED WHITE – беспроводные игровые наушники с диапазоном частот от 20 Гц до 20 кГц. Сопротивление (импеданс) наушников равна 39 Ом. Чувствительность модели составляет 87.5 дБ.",
+      "url": "https://delta-game.ru/wp-content/uploads/2021/02/Logitech-G733-LIGHTSPEED-WHITE_2.png",
+      "price": 22860,
+      "category": "Наушники",
+      "isFavorite": false,
+      "cartQuantity": 0,
+      "id": "62"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+.product-details-container {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.product-details-content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.product-details-info {
+  flex-grow: 1;
+  align-items: center;
+}
+
+.product-details-title {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.product-details-description{
+  font-size: 27px;
+  color: white;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+.product-details-form {
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.price-buy-container {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.price-container {
+  flex-grow: 3;
+  margin-right: 10px;
+}
+
+.price-container p {
+  color: cornflowerblue;
+  font-size: 40px;
+}
+
+.buy-button {
+  display: flex;
+  justify-content: center;
+}
+
+.product-details-image-container {
+  border-radius: 10px;
+  overflow: hidden;
+  justify-content: center;
+  flex: 0 0 100%;
+  margin-bottom: 20px;
+}
+
+.product-details-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-left: auto;
+}
+
+.color-button {
+  background-color: #eee;
+  color: cornflowerblue;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.color-button:hover {
+  background-color: #ddd;
+}
+
+.favorite-button-new {
+  color: cornflowerblue;
+  border: 2px solid cornflowerblue;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s; /* Плавное изменение цвета при наведении */
+}
+
+.favorite-button-new:hover {
+  background-color: cornflowerblue;
+  color: white; /* Изменение цвета текста при наведении */
+}
+
+@media (max-width: 768px) {
+  .product-details-content {
+    justify-content: center;
+  }
+
+  .product-details-image-container {
+    flex: 0 0 100%;
+  }
+
+  .product-details-image {
+    margin-right: auto;
+  }
+
+  .product-details-info {
+    flex: 0 0 100%;
+    text-align: center;
+    margin-top: 20px; /* Добавлено отступ сверху */
+  }
+
+  .price-buy-container {
+    flex-direction: column; /* Изменено направление гибкого контейнера */
+    align-items: center;
+  }
+
+  .buy-button {
+    margin-top: 10px; /* Добавлено отступ сверху */
+  }
+}

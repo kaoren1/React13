@@ -1,0 +1,121 @@
+.product-card {
+        position: relative;
+        border: 2px solid cornflowerblue;
+        border-radius: 10px;
+        padding: 20px;
+        max-width: 250px;
+        text-align: center;
+        margin: 20px auto;
+    }
+
+    .favorite-button {
+        outline: none; 
+        position: absolute;
+        top: 15px;
+        right: 15px; 
+        background-color: transparent;
+        border: none;
+        cursor: pointer; 
+        font-size: 1.5em;
+        color: mintcream;
+    }
+
+    .product-image {
+        width: 80%;
+        height: 200px;
+        object-fit: cover; 
+        border-radius: 10px;
+    }
+
+    .product-title {
+        font-size: 1em;
+        margin: 5px 0;
+    }
+
+    .product-price {
+        font-size: 1.2em;
+        color: cornflowerblue;
+        margin: 10px 0;
+    }
+    
+
+    .product-buttons {
+        display: flex; 
+        justify-content: center; 
+        gap: 10px;
+        margin: 20px 0;
+    }
+
+    .buy-button, .description-button {
+        color: cornflowerblue;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+
+    .product-description {
+        font-size: 0.9em;
+        color: cornflowerblue;
+        margin-top: 20px;
+    }
+
+
+    .product-image {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .product-title {
+        font-size: 1.5em;
+        margin: 10px 0;
+    }
+
+    .product-price {
+        font-size: 1.2em;
+        color: cornflowerblue;
+        margin: 10px 0;
+    }
+
+    .product-buttons {
+        display: flex; 
+        justify-content: center; 
+        gap: 10px; 
+        margin: 20px 0;
+    }
+
+    .buy-button{
+        color: cornflowerblue;
+        border: 2px solid cornflowerblue;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 1em;
+        cursor: pointer;
+    }
+
+    .description-button{
+        height: 45px;
+        margin-top: 20px;
+    }
+
+    .product-description {
+        font-size: 0.9em;
+        color: cornflowerblue;
+        margin-top: 20px;
+    }
+
+    .favorite-button:hover {
+        background-color: transparent; 
+    }
+    
+    .product-image {
+        width: 80%;
+        height: 200px;
+        object-fit: cover; 
+        border-radius: 10px;
+    }
+
+    .buy-button:hover, .description-button:hover {
+        background-color: cornflowerblue;
+        color: white;
+    }
